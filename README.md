@@ -105,7 +105,7 @@ On Windows, reinstall or modify your Python installation to include Tcl/Tk. On U
 sudo apt install python3-tk
 ```
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **ZaBir HaSan**
 
